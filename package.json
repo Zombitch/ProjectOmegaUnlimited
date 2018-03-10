@@ -1,0 +1,32 @@
+{
+  "name": "omegaunlimited",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zombitch/ProjectOmegaUnlimited.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zombitch/ProjectOmegaUnlimited/issues"
+  },
+  "homepage": "https://github.com/Zombitch/ProjectOmegaUnlimited#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "cron": "^1.3.0",
+    "debug": "^2.6.8",
+    "ejs": "~2.5.7",
+    "express": "^4.16.2",
+    "helmet": "^3.12.0",
+    "html": "^1.0.0",
+    "mongodb": "^3.0.4",
+    "morgan": "^1.8.2",
+    "serve-favicon": "^2.4.5"
+  }
+}
